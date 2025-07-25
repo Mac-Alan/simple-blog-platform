@@ -7,6 +7,7 @@
 - Merges with conflicts: 2
 
 ## Branch History
+```
 *   6f8b7a3 (HEAD -> main, origin/main) Merge branch 'documentation'
 |\
 | * 95f7d96 (origin/documentation, documentation) Add new README
@@ -27,6 +28,7 @@
 |/
 * 0f2ded9 Add posts page and functionality
 * 5bdb239 Initial project setup
+```
 
 ## Lessons Learned
 Ветки позволяют вести параллельную разработку удобно.
